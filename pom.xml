@@ -87,6 +87,7 @@
             <build>
                 <plugins>
                     <plugin>
+                        <!-- Jacoco  plugin added -->
                         <groupId>org.jacoco</groupId>
                         <artifactId>jacoco-maven-plugin</artifactId>
                         <version>0.8.10</version>
