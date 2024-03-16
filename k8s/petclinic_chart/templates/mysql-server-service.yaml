@@ -13,4 +13,4 @@ spec:
       port: 3306
       targetPort: 3306
   selector:
-    io.kompose.service: mysql-server
+    io.kompose.service: petclinic.cvuwxlzcijmf.us-east-1.rds.amazonaws.com
